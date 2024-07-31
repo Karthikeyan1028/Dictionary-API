@@ -17,6 +17,6 @@ async function foo(){
         
     } catch (error) {
         console.log(error);
-        col.innerHTML=`<div class="error">OOPS!SORRY,WORD NOT FOUND IN THE DIRECTORY</div>`;
+        col.innerHTML=`<div class="error">OOPS!SORRY,WORD NOT FOUND IN THE DICTIONARY</div>`;
     }
 }
