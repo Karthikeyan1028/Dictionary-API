@@ -1,0 +1,24 @@
+.container{
+  background: linear-gradient(white,skyblue);
+  padding: 100px 50px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gray;
+  justify-items: space-between;
+  box-shadow: 5px 10px 10px gray;
+  
+}
+body{
+  padding: 100px 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.error{
+  font-size: x-large;
+  color:red;
+  text-align: center;
+  padding: 50px;
+  font-weight: bold;
+}
+h1{
+  text-shadow: 5px 5px 10px rgb(102, 102, 240);
+}
